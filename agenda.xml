@@ -1,0 +1,19 @@
+<Agenda>
+  <listado>
+    <Persona>
+      <nombre>Juan Ramon Gutierrez</nombre>
+      <telefono>+34 634 200 300</telefono>
+      <mail>jramon@lycos.es</mail>
+    </Persona>
+    <Persona>
+      <nombre>luis</nombre>
+      <telefono>234</telefono>
+      <mail>mimail</mail>
+    </Persona>
+    <Persona>
+      <nombre>juan</nombre>
+      <telefono>j234</telefono>
+      <mail>mail</mail>
+    </Persona>
+  </listado>
+</Agenda>
